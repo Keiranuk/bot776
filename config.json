@@ -1,0 +1,10 @@
+{
+    "token":"Bot Token Here",
+    "guildId":"Server ID Here",
+    "clientId": "Bot ID Here",
+
+    "moderator_roles": [
+        "Mod Role ID Here",
+        "Owner Role ID Here"
+    ]
+}

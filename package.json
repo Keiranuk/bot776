@@ -1,0 +1,28 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "This is proof of work to Luna",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keiranuk/bot776.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "keiran chippendale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keiranuk/bot776/issues"
+  },
+  "homepage": "https://github.com/keiranuk/bot776#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "events": "^3.3.0",
+    "glob": "^7.2.0",
+    "util": "^0.12.4"
+  }
+}
